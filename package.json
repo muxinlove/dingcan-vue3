@@ -1,0 +1,36 @@
+{
+  "name": "dingcan-vue3",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "blueimp-md5": "^2.19.0",
+    "comment": "^0.0.2",
+    "element-plus": "^1.2.0-beta.3",
+    "js-base64": "^3.7.2",
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-route": "^3.2.0",
+    "koa-router": "^10.1.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.13",
+    "qs": "^6.10.1",
+    "request": "^2.88.2",
+    "swiper": "6",
+    "unplugin-vue-components": "^0.17.2",
+    "vee-validate": "^4.5.6",
+    "vue": "^3.2.16",
+    "vue-router": "4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "sass": "^1.43.4",
+    "vite": "^2.6.4"
+  }
+}
